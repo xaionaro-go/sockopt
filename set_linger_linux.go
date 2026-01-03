@@ -1,6 +1,7 @@
 //go:build linux
 // +build linux
 
+// Package sockopt provides functions to set socket options.
 package sockopt
 
 import (
